@@ -9,3 +9,10 @@ Pivot lines tells us following things about the market:
 - Pivot lines simply take the price activity of previous day and attempts to tell us the value range for the succeeding day.
 - Value range also indicates if the stock/ index will be on trend today or rangebound. (If you are not sure about the different market behaviours and why they occur,
   Please go to this blog: )
+  
+  ````
+  Central Pivot (CP) = (High+ low + close)/3
+  Top Central Pivot (TC) = (High + low)/2
+  Bottom Central Pivot (BC) = 2*CP - TC
+  
+  ````
